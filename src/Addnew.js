@@ -13,7 +13,7 @@ const Addnew = () => {
         <div className='single-box'>
              <FontAwesomeIcon className='plus' icon={faPlusCircle} /><h3>Add you own</h3>
             <p>Are you a teacher or expert?  Do you sell or rent out equipment, venue or event tickets?  Or, you know someone who should be on hobbycue?  Go ahead and Add your Own page</p>
-            <button >Add new</button>
+           <button><a href='https://reeganv13.github.io/addnewpage/'className=''>Add new</a></button> 
            
             </div>
         

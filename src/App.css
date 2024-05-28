@@ -353,7 +353,12 @@ nav button{
   color: #8064A2;
   font-weight: bold;
   background-color: transparent;
+  cursor: pointer;
 
+}
+.single-box button a{
+  text-decoration: none;
+  color: #8064A2;
 }
 .plus{
   color: #0096C8;
